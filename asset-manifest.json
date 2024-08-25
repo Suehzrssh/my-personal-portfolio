@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/my-personal-portfolio/static/css/main.19fd0ead.css",
+    "main.js": "/my-personal-portfolio/static/js/main.96325879.js",
+    "static/js/453.33ff2fef.chunk.js": "/my-personal-portfolio/static/js/453.33ff2fef.chunk.js",
+    "static/media/kitchenweb.png": "/my-personal-portfolio/static/media/kitchenweb.3589bf4173db4a30d808.png",
+    "static/media/gta.jpg": "/my-personal-portfolio/static/media/gta.be60e0ad98d9246681c1.jpg",
+    "static/media/profile.png": "/my-personal-portfolio/static/media/profile.0347a5496710852da730.png",
+    "static/media/creditCard.png": "/my-personal-portfolio/static/media/creditCard.f2142bacc64f312ea341.png",
+    "static/media/todoList.png": "/my-personal-portfolio/static/media/todoList.5ae01d6eb7bb3246c0ad.png",
+    "static/media/pulse.png": "/my-personal-portfolio/static/media/pulse.be2cd4e777f316eca065.png",
+    "static/media/stopwatch.png": "/my-personal-portfolio/static/media/stopwatch.14d035d419ecce2f739c.png",
+    "static/media/calculator.png": "/my-personal-portfolio/static/media/calculator.c31c3e3186c491d83524.png",
+    "static/media/calendar.png": "/my-personal-portfolio/static/media/calendar.b930c7c3e34d6699353b.png",
+    "static/media/Abstract.png": "/my-personal-portfolio/static/media/Abstract.bee648eb6dd6451fd4f8.png",
+    "static/media/analogclock.png": "/my-personal-portfolio/static/media/analogclock.8bfd4681f5f002da6ce1.png",
+    "static/media/Englishdictionary.png": "/my-personal-portfolio/static/media/Englishdictionary.52e1804b813152b13c0a.png",
+    "static/media/weatherApp.png": "/my-personal-portfolio/static/media/weatherApp.27b3e0045680529c73eb.png",
+    "static/media/contact.png": "/my-personal-portfolio/static/media/contact.67c0345e4e321c48bc1c.png",
+    "static/media/uselessfact.png": "/my-personal-portfolio/static/media/uselessfact.b2ff0cfa01d77ba5ba81.png",
+    "index.html": "/my-personal-portfolio/index.html",
+    "main.19fd0ead.css.map": "/my-personal-portfolio/static/css/main.19fd0ead.css.map",
+    "main.96325879.js.map": "/my-personal-portfolio/static/js/main.96325879.js.map",
+    "453.33ff2fef.chunk.js.map": "/my-personal-portfolio/static/js/453.33ff2fef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19fd0ead.css",
+    "static/js/main.96325879.js"
+  ]
+}
