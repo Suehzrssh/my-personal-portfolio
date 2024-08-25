@@ -1,0 +1,81 @@
+.home {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: end;
+}
+.about {
+    width: 88%;
+    height: 600px;
+    background-color: rgb(5, 18, 29);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.skills {
+    width: 88%;
+}
+.about h2 {
+    margin-top: 50px;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: gold;
+}
+.prompt {
+    width: 50%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.prompt p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+.homeIcons {
+    width: 30%;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+.homeIcons .homeIcon {
+    color: #fff;
+    font-size: 40px;
+    cursor: pointer;
+    transition: .5s all;
+}
+.homeIcons .homeIcon:hover {
+    transform: scale(1.1);
+}
+.skills {
+    background-color: rgb(247, 247, 247);
+    width: 88%;
+}
+.skills h2 {
+    color: rgb(114, 141, 167);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+.skills span {
+    color: rgb(114, 141, 167);
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.list {
+    list-style-type: none;
+    padding-bottom: 40px;
+}
+.item {
+    margin-top: 50px;
+}

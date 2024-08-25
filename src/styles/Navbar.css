@@ -1,0 +1,52 @@
+.myNav {
+    position: fixed;
+    width: 10rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient( rgba(0, 0, 0, 0.514));
+    box-shadow: 0 0px 5px rgba(0, 0, 0, .6);
+    top: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.links {
+    width: 100%;
+    height: 390px;
+    background-color: rgba(82, 118, 167, 0.479);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: rgb(56, 51, 51);
+}
+.link {
+    width: 100%;
+    height: 33%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    transition: .5s all;
+    cursor: pointer;
+}
+
+.link .ico {
+    transform: scale(1.5);
+    margin-bottom: 10px;
+}
+.link a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+    font-size: large;
+    width: 100%;
+}
+.links .homeico {
+    background-color: rgba(82, 117, 167, 0.822);
+}
+.link:hover {
+    background-color: rgba(82, 117, 167, 0.815);
+}
+.minNavbar {
+    display: none;
+}
